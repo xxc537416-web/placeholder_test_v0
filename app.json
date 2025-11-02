@@ -1,0 +1,13 @@
+{
+  "name": "SuperMax AI Advisor",
+  "description": "The Ultimate Zero-Cost, Self-Funding, Quantum-Grade AI Advisor for Global Domination.",
+  "repository": "https://github.com/jvif7bh8j/placeholder_test_v0",
+  "keywords": ["ai", "finance", "automation", "supermax"],
+  "stack": "heroku-22",
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  }
+}
+
